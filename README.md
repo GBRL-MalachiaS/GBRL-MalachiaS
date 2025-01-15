@@ -26,8 +26,7 @@ Segue alguns projetos desenvolvidos, no curso da devmedia
 
 ⚡ **Fato Divertido**
 
-Sou um cara bastante comunicativo e familia. Gosto muito de jogar jogos online ( CS 2.0 e Lolzinho ). 
-
+Sou um cara bastante comunicativo e familia. Gosto de sair com a minha filha para ela andar de patins e ir em parques e nas horas vagas jogar jogos da linha Soulslike e um lolzinho para estressar de vez em quando. 
 <!---
 GBRL-MalachiaS/GBRL-MalachiaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
