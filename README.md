@@ -22,7 +22,7 @@ Segue alguns projetos desenvolvidos, no curso da devmedia
 📫 **Contato**
 
 - Email: gbl.malachias@hotmail.com
-- LinkedIn: [Gabriel Malachaias](https://www.linkedin.com/in/gabriel-malachias-b1b19b91/)
+- LinkedIn: [Gabriel Malachias](https://www.linkedin.com/in/gabriel-malachias-b1b19b91/)
 
 ⚡ **Fato Divertido**
 
