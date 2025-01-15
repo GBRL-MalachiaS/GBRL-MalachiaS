@@ -15,7 +15,8 @@ utilizando o back-end e front-end .
 Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da Devmedia
 
  **Front-end**
-Projeto Pousada 
+
+[Projeto Pousada](https://gbrl-malachias.github.io/Pousada/)
 
 💞️ **Colaboração**
 
