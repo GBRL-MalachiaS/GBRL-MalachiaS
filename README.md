@@ -13,18 +13,24 @@
 
 ###
 
-<p align="left">🔥 **Quem Sou Eu**<br><br>Sou um futuro desenvolvedor full-stack
-    apaixonado por tecnologias inovadoras e por resolver problemas complexos.
-    Estou criando me desenvolendo cada vez mais para criar multiplas
-    soluçãos<br>utilizando o back-end e front-end .<br><br>👀
-    **Interesses**<br><br>- Desenvolvimento Web com Python.<br>- Front-end (
-    HTML / CSS ).<br><br>🌱 **Aprendizado Atual**<br><br>Atualmente, estou
-    aprimorando minhas habilidades em front-end com os cursos da
-    Devmedia<br><br> **Front-end**<br><br>[Projeto
-    Pousada](https://gbrl-malachias.github.io/Pousada/)<br><br>💞️
-    **Colaboração**<br><br>Atualmente estou colaborando comigo mesmo !
-    kkkkk<br>Segue alguns projetos desenvolvidos, no curso da devmedia<br><br>📫
-    **Contato**<br><br>- Email: gbl.malachias@hotmail.com</p>
+🔥 **Quem Sou Eu**
+    Sou um futuro desenvolvedor full-stackapaixonado por tecnologias inovadoras e por resolver problemas complexos.
+    Estou criando me desenvolendo cada vez mais para criar multiplas soluçãos utilizando o back-end e front-end .
+
+👀 **Interesses**
+ - Desenvolvimento Web com Python.
+ - Front-end (HTML / CSS ).
+
+🌱 **Aprendizado Atual**
+
+Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da Devmedia
+
+**Front-end**
+[Projeto Pousada](https://gbrl-malachias.github.io/Pousada/)
+
+💞️**Colaboração**
+Atualmente estou colaborando comigo mesmo ! kkkkk .Segue alguns projetos desenvolvidos, no curso da devmedia
+
 
 ###
 
