@@ -76,11 +76,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img
-    src="https://raw.githubusercontent.com/gbrl-malachias/gbrl-malachias/output/snake.svg"
-    alt="Snake animation" />
-
-###
