@@ -14,10 +14,12 @@
 ###
 
 🔥 **Quem Sou Eu**
-    Sou um futuro desenvolvedor full-stackapaixonado por tecnologias inovadoras e por resolver problemas complexos.
-    Estou criando me desenvolendo cada vez mais para criar multiplas soluçãos utilizando o back-end e front-end .
+
+Sou um futuro desenvolvedor full-stackapaixonado por tecnologias inovadoras e por resolver problemas complexos.
+Estou criando me desenvolendo cada vez mais para criar multiplas soluçãos utilizando o back-end e front-end .
 
 👀 **Interesses**
+
  - Desenvolvimento Web com Python.
  - Front-end (HTML / CSS ).
 
@@ -26,6 +28,7 @@
 Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da Devmedia
 
 **Front-end**
+
 [Projeto Pousada](https://gbrl-malachias.github.io/Pousada/)
 
 💞️**Colaboração**
