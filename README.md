@@ -15,17 +15,17 @@
 
 🔥 **Quem Sou Eu**
 
-Sou um futuro desenvolvedor full-stackapaixonado por tecnologias inovadoras e por resolver problemas complexos.
-Estou criando me desenvolendo cada vez mais para criar multiplas soluçãos utilizando o back-end e front-end .
+Sou um futuro desenvolvedor full-stack apaixonado por tecnologias inovadoras e por resolver problemas complexos. 
+Estou me desenvolvendo cada vez mais para criar múltiplas soluções utilizando tanto o back-end quanto o front-end.
 
 👀 **Interesses**
 
  - Desenvolvimento Web com Python.
- - Front-end (HTML / CSS ).
+ - Front-end (HTML / CSS).
 
 🌱 **Aprendizado Atual**
 
-Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da Devmedia
+Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da Devmedia.
 
 **Front-end**
 
@@ -34,7 +34,7 @@ Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da D
 [Hospedagem](https://gbrl-malachias.github.io/Provedor-de-Hospedagem/)
 
 💞️**Colaboração**
-Atualmente estou colaborando comigo mesmo ! kkkkk .Segue alguns projetos desenvolvidos, no curso da devmedia
+Atualmente, estou colaborando comigo mesmo! 😂 Seguem alguns projetos desenvolvidos no curso da Devmedia:
 
 
 ###
