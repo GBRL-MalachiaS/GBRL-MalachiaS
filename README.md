@@ -86,4 +86,6 @@ Atualmente, estou colaborando comigo mesmo! 😂 Seguem alguns projetos desenvol
     </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/GBRL-MalachiaS/GBRL-MalachiaS/output/snake.svg" alt="Snake animation" />
+
 ###
