@@ -27,14 +27,14 @@ Estou me desenvolvendo cada vez mais para criar múltiplas soluções utilizando
 
 Atualmente, estou aprimorando minhas habilidades em front-end com os cursos da Devmedia.
 
+💞️**Colaboração**
+Atualmente, estou colaborando comigo mesmo! 😂 Seguem alguns projetos desenvolvidos no curso da Devmedia:
+
 **Front-end**
 
 [Projeto Pousada](https://gbrl-malachias.github.io/Pousada/)
 
 [Hospedagem](https://gbrl-malachias.github.io/Provedor-de-Hospedagem/)
-
-💞️**Colaboração**
-Atualmente, estou colaborando comigo mesmo! 😂 Seguem alguns projetos desenvolvidos no curso da Devmedia:
 
 
 ###
