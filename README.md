@@ -85,7 +85,4 @@ Atualmente, estou colaborando comigo mesmo! 😂 Seguem alguns projetos desenvol
             width="47" height="35" alt="linkedin logo" />
     </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/GBRL-MalachiaS/GBRL-MalachiaS/output/snake.svg" alt="Snake animation" />
-
 ###
